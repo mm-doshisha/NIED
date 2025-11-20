@@ -1,0 +1,14 @@
+bin/
+include/
+lib/
+lib64
+model/
+share/
+spacy/
+predictions/
+evaluations/
+
+__pycache__/
+
+pyvenv.cfg
+nohup.out

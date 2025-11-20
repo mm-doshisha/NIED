@@ -1,0 +1,7 @@
+roberta-base
+google-bert/bert-base-uncased
+distilbert/distilbert-base-uncased
+albert/albert-base-v2
+xlnet/xlnet-base-cased
+microsoft/deberta-base
+allenai/scibert_scivocab_uncased
