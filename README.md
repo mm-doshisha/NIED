@@ -1,4 +1,4 @@
-# NIED: Numerical Information Extraction from Dataset Descriptions
+# NIED: A Corpus for Numeric Information Extraction from Dataset Descriptions
 
 Implementation of the NIED system for extracting structured numerical information from dataset documentation.
 
