@@ -125,7 +125,3 @@ If you use this corpus in your research, please cite:
   note={To appear}
 }
 ```
-
-**Plain text:**
-
-Moriyuki Kamoto, Akihiro Tamura, and Marie Katsurai. 2025. NIED: A Corpus for Numeric Information Extraction from Dataset Descriptions. In *Proceedings of the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. To appear.
