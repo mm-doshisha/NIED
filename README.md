@@ -110,3 +110,22 @@ JSONL format.
   ]
 }
 ```
+
+-----
+
+## Citation
+
+If you use this corpus in your research, please cite:
+```bibtex
+@inproceedings{kamoto2025nied,
+  title={NIED: A Corpus for Numeric Information Extraction from Dataset Descriptions},
+  author={Kamoto, Moriyuki and Tamura, Akihiro and Katsurai, Marie},
+  booktitle={Proceedings of the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+  year={2025},
+  note={To appear}
+}
+```
+
+**Plain text:**
+
+Moriyuki Kamoto, Akihiro Tamura, and Marie Katsurai. 2025. NIED: A Corpus for Numeric Information Extraction from Dataset Descriptions. In *Proceedings of the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL)*. To appear.
