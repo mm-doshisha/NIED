@@ -163,10 +163,11 @@ Numerical entity results are unaffected.
 If you use this corpus in your research, please cite:
 ```bibtex
 @inproceedings{kamoto2025nied,
-  title={NIED: A Corpus for Numeric Information Extraction from Dataset Descriptions},
-  author={Kamoto, Moriyuki and Tamura, Akihiro and Katsurai, Marie},
-  booktitle={Proceedings of the 2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
-  year={2025},
-  note={To appear}
+  author    = {Kamoto, Moriyuki and Tamura, Akihiro and Katsurai, Marie},
+  booktitle = {2025 ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
+  title     = {NIED: A Corpus for Numeric Information Extraction from Dataset Descriptions},
+  year      = {2025},
+  pages     = {241-244},
+  doi       = {10.1109/JCDL67857.2025.00036}
 }
 ```
